@@ -1,10 +1,6 @@
 <h1 align="center"> Hello there </h1>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/2ZNExnM_7F0AAAAC/hello-there.gif" width="500"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFranciscoCorreia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasFranciscoCorreia&theme=dark&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=LucasFranciscoCorreia&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="languages graph"  />
