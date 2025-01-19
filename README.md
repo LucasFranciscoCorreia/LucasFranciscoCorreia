@@ -10,6 +10,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LucasFranciscoCorreia&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="languages graph"  />
 </div>
 
+<div>
+  <h2> Where To Find Me </h2>
+  <p align="center">
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-correia-02979112a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
+  </p>
+</div>
+
 <h2>🚀 Languages I Use </h2>
 <p>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
